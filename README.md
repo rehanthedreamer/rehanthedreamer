@@ -66,48 +66,80 @@ _Bachelor of Science in Gaming & Animation_
 
 ## 🌟 Recent & Favorite Projects
 
-
-
-### [Delivery Tycoon](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon)
-[![Delivery Tycoon Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/DT2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon)
----
-### [Supermarket Empire](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire)
-[![Airpot Empire Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/Supermaket3.png)](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire)
-<!-- Replace VIDEO_ID with your actual YouTube video ID -->
-
-
----
-### [Airport Empire](https://play.google.com/store/apps/details?id=com.egl.android.airportempire)
-[![Airpot Empire Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/AE2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.airportempire)
-<!-- Replace VIDEO_ID with your actual YouTube video ID -->
-
----
-
-### [School Life](https://play.google.com/store/apps/details?id=com.egl.android.schoollife)
-[![School Life Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SchoolLife2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.schoollife)
-
----
-
-### [Snake Away](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway)
-[![Snake Away Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SnakeAway3.png)](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway)
-
----
-
-### [Bus Stop Drop](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop)
-[![Bus Stop Drop Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/BustStopDrop2.png)](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop)
-
----
-
-### [Elements Defense](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense)
-[![Elements Defense Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/ED3.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense)
-
----
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/DT2.jpg" width="180" alt="Delivery Tycoon"/><br/>
+        <b>Delivery Tycoon</b>
+      </a>
+    </td>
+    <td>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/Supermaket3.png" width="180" alt="Supermarket Empire"/><br/>
+        <b>Supermarket Empire</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.airportempire">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/AE2.jpg" width="180" alt="Airport Empire"/><br/>
+        <b>Airport Empire</b>
+      </a>
+    </td>
+    <td>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.schoollife">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SchoolLife2.jpg" width="180" alt="School Life"/><br/>
+        <b>School Life</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.snakeaway">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SnakeAway3.png" width="180" alt="Snake Away"/><br/>
+        <b>Snake Away</b>
+      </a>
+    </td>
+    <td>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/BustStopDrop2.png" width="180" alt="Bus Stop Drop"/><br/>
+        <b>Bus Stop Drop</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/ED3.jpg" width="180" alt="Elements Defense"/><br/>
+        <b>Elements Defense</b>
+      </a>
+    </td>
+    <td>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" valign="top">
+      <!-- Add another project or leave blank -->
+    </td>
+  </tr>
+</table>
 
 ## 🎉 Fun Facts & Interests
 
 - Dirt bike riding
 - Traveling
-- Exploring themes like death in games
+- Playing Games
+- Reading books
 
 ---
 
