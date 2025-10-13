@@ -26,212 +26,97 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40">
+  <h2>Hello there, I'm Rehan!</h2>
+  <p>Unity Game Developer</p>
 </div>
 
+---
 
+## 💼 About Me
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+I’m a passionate Unity Game Developer with over 9.5 years of experience in designing, developing, and delivering engaging mobile and casual games. Throughout my career, I’ve had the opportunity to collaborate with some of the industry’s top publishers, including Supersonic, Supercent, and Voodoo, successfully launching several titles such as [Airport Empire](https://play.google.com/store/apps/details?id=com.egl.android.airportempire), [Supermarket Empire](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire), [Delivery Tycoon](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon), [School Life](https://play.google.com/store/apps/details?id=com.egl.android.schoollife), [Snake](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway), [Bus Stop Drop](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop), [Elements Defense](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense), etc.
 
+Driven by creativity and a love for innovation, I constantly strive to learn new technologies and push the boundaries of gameplay and user experience. My goal is to craft games that not only entertain but leave a lasting impression on players.
 
+---
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## 🎓 Education
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+**2012-2015 — Bharti Vidyapeeth University, Pune**  
+_Bachelor of Science in Gaming & Animation_
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+---
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+## 🛠️ Skills
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+![Unity](https://img.shields.io/badge/Unity-0066A1?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
+![Maya 3D](https://img.shields.io/badge/Maya_3D-1e6fba?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)
+![Animation](https://img.shields.io/badge/Animation-ffa500?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=101010)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=101010)
+![Construct 2D](https://img.shields.io/badge/Construct_2D-30b7ff?style=for-the-badge&logoColor=white&labelColor=101010)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=101010)
+<br>
+...and more!
 
-Use the `BLANK_README.md` to get started.
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🌟 Recent & Favorite Projects
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### [Delivery Tycoon](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon)
+[![Delivery Tycoon Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/DT2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon)
+---
+### [Supermarket Empire](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire)
+[![Airpot Empire Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/Supermaket3.png)](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire)
+<!-- Replace VIDEO_ID with your actual YouTube video ID -->
 
 
+---
+### [Airport Empire](https://play.google.com/store/apps/details?id=com.egl.android.airportempire)
+[![Airpot Empire Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/AE2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.airportempire)
+<!-- Replace VIDEO_ID with your actual YouTube video ID -->
 
-<!-- GETTING STARTED -->
-## Getting Started
+---
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### [School Life](https://play.google.com/store/apps/details?id=com.egl.android.schoollife)
+[![School Life Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SchoolLife2.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.schoollife)
 
-### Prerequisites
+---
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### [Snake Away](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway)
+[![Snake Away Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/SnakeAway3.png)](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway)
 
-### Installation
+---
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+### [Bus Stop Drop](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop)
+[![Bus Stop Drop Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/BustStopDrop2.png)](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop)
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### [Elements Defense](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense)
+[![Elements Defense Gameplay](https://github.com/rehanthedreamer/rehanthedreamer/blob/main/ED3.jpg)](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense)
 
+---
 
+## 🎉 Fun Facts & Interests
 
-<!-- USAGE EXAMPLES -->
-## Usage
+- Dirt bike riding
+- Traveling
+- Exploring themes like death in games
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+---
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+## 🔗 Connect With Me
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rehanunitygamedeveloper/)
+[![Instagram](https://img.shields.io/badge/Instagram-@rehanthedreamer-ed3e90?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rehanthedreamer/)
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,7 +135,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: [https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/rehanunitygamedeveloper/)
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
