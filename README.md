@@ -130,6 +130,10 @@ _Bachelor of Science in Gaming & Animation_
     </td>
     <td align="center" valign="top">
       <!-- Add another project or leave blank -->
+       <a href="https://www.youtube.com/shorts/XCHwhOjssQU">
+        <img src="https://github.com/rehanthedreamer/rehanthedreamer/blob/main/Jackpot Casino Slot Game.png" width="180" alt="Jackpot Casino Slot Game"/><br/>
+        <b>Elements Defense</b>
+      </a>
     </td>
   </tr>
 </table>
