@@ -36,7 +36,7 @@
 
 ## 💼 About Me
 
-I’m a Unity Game Developer with 9+ years of experience building high-performing games across hypercasual, casual, slot, multiplayer, AR/VR, and simulation genres. I specialize in creating scalable, data-driven gameplay systems that are optimized for engagement and monetization.
+I’m a passionate Unity Game Developer with 9+ years of experience building high-performing games across hypercasual, casual, slot, multiplayer, AR/VR, and simulation genres. I specialize in creating scalable, data-driven gameplay systems that are optimized for engagement and monetization.
 
 Over the years, I’ve collaborated with top global publishers like Supersonic, Supercent, and Voodoo, delivering multiple successful titles including [Airport Empire](https://play.google.com/store/apps/details?id=com.egl.android.airportempire), [Supermarket Empire](https://play.google.com/store/apps/details?id=com.egl.android.supermarketempire), [Delivery Tycoon](https://play.google.com/store/apps/details?id=com.egl.android.deliverytycoon), [Jackpot Slot Game](https://www.youtube.com/shorts/XCHwhOjssQU), [Snake](https://play.google.com/store/apps/details?id=com.egl.android.snakeaway), [Bus Stop Drop](https://play.google.com/store/apps/details?id=com.egl.android.busstopdrop), [Elements Defense](https://play.google.com/store/apps/details?id=com.egl.android.elementsdefense), etc.
 
